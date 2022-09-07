@@ -18,5 +18,11 @@
     <ProjectReference Include="..\..\..\corePackages\Core.Persistence\Core.Persistence.csproj" />
     <ProjectReference Include="..\Domain\Domain.csproj" />
   </ItemGroup>
+	
+  <ItemGroup>
+    <Folder Include="Features\Models\Command\" />
+    <Folder Include="Features\Models\Constants\" />
+    <Folder Include="Features\Models\Rules\" />
+  </ItemGroup>
 
 </Project>

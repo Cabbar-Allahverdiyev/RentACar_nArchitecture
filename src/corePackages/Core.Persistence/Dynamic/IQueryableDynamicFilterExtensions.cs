@@ -19,7 +19,7 @@ public static class IQueryableDynamicFilterExtensions
             { "startswith", "StartsWith" },
             { "endswith", "EndsWith" },
             { "contains", "Contains" },
-            { "doesnotcontain", "Contains" }
+            { "doesnotcontain", "Contains" }//duzelis et
         };
 
     public static IQueryable<T> ToDynamic<T>(

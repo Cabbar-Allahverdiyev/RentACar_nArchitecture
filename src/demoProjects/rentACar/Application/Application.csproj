@@ -20,6 +20,7 @@
   </ItemGroup>
 	
   <ItemGroup>
+    <Folder Include="Features\Auths\Commands\Login\" />
     <Folder Include="Features\Models\Command\" />
     <Folder Include="Features\Models\Constants\" />
     <Folder Include="Features\Models\Rules\" />
